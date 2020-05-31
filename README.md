@@ -1,6 +1,7 @@
 # streamr
 Stream any content(uncensored) from torrents to your machine immediately without downloading the file!
-
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/mukberty/streamr.svg)](http://hits.dwyl.com/mukberty/streamr)
 
 ### Installation
 
