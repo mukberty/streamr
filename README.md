@@ -15,11 +15,13 @@ Option 2: Run the following on your machine-
 1. Open terminal and run `./streamer`
  All input must be enclosed in double quotes.
 2. Enter content to stream (with season/episode) eg. "Life of Pi" or "The Last Dance E08".
+
 3.Enter torrent trackers to search (TPB or 1337x or YTS or EZTV). eg. "the_pirate_bay" or "eztv".
 4.Enter video quality eg. "1080p".
+
 5. Next, a list of magnet urls will be displayed. Copy the desired url `Ctrl+ Shift + C`
-6.At the prompt , paste the copied link `Ctrl+Shift+V`
-You're done!
+6. At the prompt , paste the copied link `Ctrl+Shift+V`
+ You're done!
 
 
 ### Errror?
