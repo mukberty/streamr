@@ -5,6 +5,8 @@ Stream any content(uncensored) from torrents to your machine immediately without
 
 [![HitCount](http://hits.dwyl.com/mukberty/streamr.svg)](http://hits.dwyl.com/mukberty/streamr)
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ### Installation
 
 Option 1:  Install with `npm`-
