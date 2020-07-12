@@ -50,7 +50,11 @@ streamr uses [we-get](https://github.com/rachmadaniHaryono/we-get) to get links 
 * `streamr` is under development. 
 * It may not work sometimes and some torrents might not be found. Please post any problems in the 'Issues'. 
 * Content downloading/streaming via torrents may be illegal. Be aware of copyright rules and infringement. 
-* It is best to use a cheap and secure [VPN](https://eazyvpn.tech/).
+* It is best to use a cheap and secure VPN.
+
+### ToDo-
+* Edit `we-get` so torrent name appears along with URL.
+* Enable user to select desired torrent by number/eliminate need to copy and paste.
 
 
 ### Contributions-
