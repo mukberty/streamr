@@ -54,7 +54,7 @@ streamr uses [we-get](https://github.com/rachmadaniHaryono/we-get) to get links 
 * Content downloading/streaming via torrents may be illegal. Be aware of copyright rules and infringement. 
 * It is best to use a cheap and secure VPN.
 
-### ToDo-
+### ToDos -
 * Edit `we-get` so torrent name appears along with URL.
 * Enable user to select desired torrent by number/eliminate need to copy and paste.
 
