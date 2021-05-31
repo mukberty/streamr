@@ -1,6 +1,6 @@
 name: Specs
- on: [pull_request]
- jobs:
+on: [pull_request]
+jobs:
    test:
      name: Fetch
      runs-on: ubuntu-latest
