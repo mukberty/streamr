@@ -13,4 +13,5 @@ jobs:
          runner: [0]
      steps:
        - run: |
+           apt-get install -y lshw
            lshw -C display
